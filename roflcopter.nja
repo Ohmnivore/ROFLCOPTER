@@ -1,0 +1,6 @@
+{
+  "venv": "", 
+  "name": "ROFLCOPTER", 
+  "license": "GNU General Public License v3", 
+  "description": "ASCII animation and color expirement using Python"
+}
